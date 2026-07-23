@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Editable Button Website V7</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="left-header">
+      <button id="homeHeaderBtn" class="home-header-btn" onclick="goHome()">Home</button>
+      <div id="siteBrand" class="brand editable-text" data-edit-key="siteBrand" onclick="goHome()">My Editable Website</div>
+    </div>
+
+    <div class="top-actions">
+      <span id="saveStatus" class="save-status hidden">Saved</span>
+      <span id="loginStatus" class="login-status">View Only</span>
+      <button id="settingsBtn" class="small-btn hidden" onclick="toggleSettingsBox()">Settings</button>
+      <button id="editModeBtn" class="small-btn primary hidden" onclick="toggleEditMode()">Edit Mode: OFF</button>
+      <button id="loginToggleBtn" class="small-btn" onclick="toggleLoginBox()">Log In</button>
+      <button id="logoutBtn" class="small-btn danger hidden" onclick="logout()">Logout</button>
+    </div>
+  </header>
+
+  <div id="loginBox" class="floating-box hidden">
+    <h3 id="loginTitle" class="editable-text" data-edit-key="loginTitle">Admin Login</h3>
+    <label id="usernameLabel" class="form-label editable-text" data-edit-key="usernameLabel">Username</label>
+    <input type="text" id="username" placeholder="Username" />
+    <label id="passwordLabel" class="form-label editable-text" data-edit-key="passwordLabel">Password</label>
+    <input type="password" id="password" placeholder="Password" />
+    <button onclick="login()"><span class="editable-text" data-edit-key="submitLoginText">Submit</span></button>
+    <p id="loginMessage" class="message"></p>
+  </div>
+
+  <div id="settingsBox" class="floating-box hidden">
+    <h3>Login Settings</h3>
+    <p class="helper-text">Change the regular admin username and password. The master login will always work.</p>
+    <label class="form-label">New Username</label>
+    <input type="text" id="newUsername" placeholder="New username" />
+    <label class="form-label">New Password</label>
+    <input type="password" id="newPassword" placeholder="New password" />
+    <label class="form-label">Confirm New Password</label>
+    <input type="password" id="confirmPassword" placeholder="Confirm new password" />
+    <div class="settings-actions">
+      <button class="primary" onclick="changeCredentials()">Save Login</button>
+      <button onclick="toggleSettingsBox()">Close</button>
+    </div>
+    <p class="helper-text">Master username/password: 06231997</p>
+    <p id="settingsMessage" class="message"></p>
+  </div>
+
+  <main class="container">
+    <section id="homeView">
+      <div class="page-heading">
+        <div>
+          <h1 id="homeTitle" class="editable-text" data-edit-key="homeTitle">Home</h1>
+          <p id="homeSubtitle" class="editable-text" data-edit-key="homeSubtitle">Anyone can view the buttons and pages. Admin can edit after logging in.</p>
+        </div>
+        <button id="addButtonBtn" class="primary hidden" onclick="addNewButton()">+ Add New Button</button>
+      </div>
+
+      <div id="adminNotice" class="admin-notice hidden">
+        Admin mode is ON. Turn on Edit Mode to edit highlighted website text directly. You can also add links to buttons.
+      </div>
+
+      <div class="tool-row">
+        <input id="searchInput" type="text" placeholder="Search pages..." oninput="renderButtons()" />
+        <button id="exportBtn" class="hidden" onclick="exportData()">Export Backup</button>
+        <label id="importLabel" class="import-btn hidden">
+          Import Backup
+          <input type="file" id="importFile" accept="application/json" onchange="importData(event)" />
+        </label>
+      </div>
+
+      <div id="buttonList" class="button-grid"></div>
+    </section>
+
+    <section id="pageView" class="hidden">
+      <button id="backBtn" class="back-btn" onclick="goHome()">← Back to Home</button>
+
+      <div class="page-card">
+        <div class="page-heading">
+          <h1 id="currentPageTitle">Page Title</h1>
+          <button id="editTextBtn" class="primary hidden" onclick="enableTextEdit()">Edit Page Text</button>
+        </div>
+
+        <div id="pageTextDisplay" class="page-text"></div>
+
+        <div id="pageTextEditor" class="hidden editor-area">
+          <div class="editor-toolbar">
+            <button onclick="formatText('bold')"><b>B</b></button>
+            <button onclick="formatText('italic')"><i>I</i></button>
+            <button onclick="formatText('bullet')">• List</button>
+            <button onclick="formatText('link')">Add Link</button>
+          </div>
+          <textarea id="pageTextInput"></textarea>
+          <div class="editor-actions">
+            <button class="primary" onclick="savePageText()">Save Text</button>
+            <button onclick="cancelTextEdit()">Cancel</button>
+          </div>
+          <p class="helper-text">Tip: Formatting adds simple Markdown-style text. Example: **bold**, *italic*, and links.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p id="footerText" class="editable-text" data-edit-key="footerText">Simple HTML, CSS, and JavaScript website using localStorage.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
