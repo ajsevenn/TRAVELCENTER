@@ -1,6 +1,34 @@
 {
   "websitePages": [
     {
+      "id": 1784835577568,
+      "name": "SABRE",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://srw.sabre.com/",
+      "openNewTab": true
+    },
+    {
+      "id": 1784835632529,
+      "name": "AMADEUS",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://www.sellingplatformconnect.amadeus.com/login/?e=j",
+      "openNewTab": true
+    },
+    {
+      "id": 1784835526653,
+      "name": "ATHENA",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://athena.agodadev.io/#/bookings",
+      "openNewTab": true
+    },
+    {
+      "id": 1784835707360,
+      "name": "AA SPRK Login",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://dcwebc.farelogix.com/sprk-aa/User/Login",
+      "openNewTab": true
+    },
+    {
       "id": 1001,
       "name": "PreBooking Flow",
       "text": "Welcome to the About Us page. You can edit this text after logging in.",
@@ -12,6 +40,20 @@
       "name": "ASC CAL",
       "text": "This page can contain your services, offers, process, or instructions.",
       "link": "https://ideapad0330.github.io/ASCCAL/",
+      "openNewTab": true
+    },
+    {
+      "id": 1784828557149,
+      "name": "TREVEL CENTER ANGELS FILES",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/toledo_jerico_agoda_com/_layouts/15/doc2.aspx?sourcedoc=%7BF5645531-29E8-4246-AAFF-173CFEF9C3E9%7D&file=TRAVEL%20CENTER%20FILES-%20Angel.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdExp=TEAMS-TREATMENT&web=1",
+      "openNewTab": true
+    },
+    {
+      "id": 1784828663671,
+      "name": "TRAVEL CENTER KENRICK FILES \"NOBITA\"",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/johnkenrick_tambis_agoda_com/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B34df7288-8430-4062-a01e-190cae9d2ebe%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=7ead7068-1c09-4203-bf73-3cb8ef91fcbf&linkOpenTime=1784828577462",
       "openNewTab": true
     },
     {
@@ -43,25 +85,18 @@
       "openNewTab": false
     },
     {
-      "id": 1784828557149,
-      "name": "TREVEL CENTER ANGEL FILES",
-      "text": "New page text. Click Edit Page Text to change this.",
-      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/toledo_jerico_agoda_com/_layouts/15/doc2.aspx?sourcedoc=%7BF5645531-29E8-4246-AAFF-173CFEF9C3E9%7D&file=TRAVEL%20CENTER%20FILES-%20Angel.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdExp=TEAMS-TREATMENT&web=1",
-      "openNewTab": true
-    },
-    {
-      "id": 1784828663671,
-      "name": "TRAVEL CENTER KENRICK FILES \"NOBITA\"",
-      "text": "New page text. Click Edit Page Text to change this.",
-      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/johnkenrick_tambis_agoda_com/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B34df7288-8430-4062-a01e-190cae9d2ebe%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=7ead7068-1c09-4203-bf73-3cb8ef91fcbf&linkOpenTime=1784828577462",
-      "openNewTab": true
-    },
-    {
       "id": 1784828973841,
       "name": "Priority Pass Lounges",
       "text": "Per Quality \"QA\" we are not allowed to Transfer member directly to Priority Pass.\n• we can only provide the # 1800-352-2834 \n• or if Pax wanted to be transferred transfer Pax to CMS then ask CMS to transfer them.\n\n\nGuide **How to Access Priority Pass Lounges (U.S. Bank Altitude Connect)**\n\n•1) Register your Priority Pass account\nOpen this registration link: https://prioritypass.com/usbankaltitudeconnect\nFollow the on-screen prompts.\nEnter the required card information and personal information.\nCreate your User ID and Password.\n\nImportant: Save these details (you’ll need them to log in later).\n\n•2) Log in after registration\nAfter your account is successfully created.\nGo back and log in again using the User ID and Password you created.\n\n•3) Get your unique digital membership card\nOnce logged in, go inside your account dashboard.\nYou will see a unique digital Priority Pass card (your membership card).\nUse this digital card to access eligible lounges.\n\n•4) Using the lounge (quick steps)\n\nWhen you arrive at the lounge:\nPresent your Priority Pass digital card from your account, and\nBe ready with your boarding pass (and ID if requested).\n\nFor questions about lounge access, eligibility, or benefits, advise the cardmember to call:\n1-800-352-2834ext to change this.",
       "link": "",
       "openNewTab": false
+    },
+    {
+      "id": 1784835676359,
+      "name": "Ghost call Tracker",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://forms.office.com/pages/responsepage.aspx?id=VGT2dbV5_U6CMwNJtBJgfKyzjPkBF0FEg3pd-7G03VFUMFZOVUFJQkw2VkMwUkQ0M05STkFWRjBSSy4u&route=shorturl",
+      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -78,6 +113,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-07-23T17:57:28.184Z",
+  "exportedAt": "2026-07-23T19:47:21.429Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
