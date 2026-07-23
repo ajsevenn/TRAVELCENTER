@@ -1,0 +1,83 @@
+{
+  "websitePages": [
+    {
+      "id": 1001,
+      "name": "PreBooking Flow",
+      "text": "Welcome to the About Us page. You can edit this text after logging in.",
+      "link": "https://ideapad0330.github.io/pre-booking-flow/",
+      "openNewTab": true
+    },
+    {
+      "id": 1002,
+      "name": "ASC CAL",
+      "text": "This page can contain your services, offers, process, or instructions.",
+      "link": "https://ideapad0330.github.io/ASCCAL/",
+      "openNewTab": true
+    },
+    {
+      "id": 1003,
+      "name": "Points Refund Checker",
+      "text": "Add your contact details here.",
+      "link": "https://metabase.agodadev.io/question/184345-booking-external-loyalty-points-info?BookingId=",
+      "openNewTab": true
+    },
+    {
+      "id": 1784769647676,
+      "name": "What is FTC",
+      "text": "-A Future Travel Credit (FTC) is a voucher/credit for the value of your ticket.\n\n-The airline gives you this credit instead of points or cash refund when you choose to cancel a non-refundable ticket.\n\n-This credit has a validity of 1 year from the issuance date can only be used  by same Passenger and same airline\n ",
+      "link": "",
+      "openNewTab": false
+    },
+    {
+      "id": 1784828191949,
+      "name": "$25 Airline Allowance",
+      "text": "You may get up to $25 back per round-trip award ticket for airline extras, as long as you used FlexPoints to book the ticket through the Rewards Center online or by phone.\n \nTo qualify:\n- You must use at least 10,000 FlexPoints per round-trip ticket\n- The extra purchase must be made on your travel dates\n- The purchase must be charged to your eligible FlexPerks card\n- The charge must be directly with the airline\n \nExamples of covered purchases:\n- Checked bag fees\n- In-flight food or drinks\n- Airline lounge membership\n \nPlease note:\n- If you used Real-Time Rewards to pay for airfare, this benefit does not apply\n- You need to call Cardmember Service within 90 days after travel to request the credit\n- If approved, the credit will show on your account within 4 to 6 weeks\n- Your account must be open and in good standing",
+      "link": "",
+      "openNewTab": false
+    },
+    {
+      "id": 1784828351203,
+      "name": "U.S. Bank car Rental Collision Damage Waiver \"CDW\"",
+      "text": "U.S. Bank may provide an Auto Rental Collision Damage Waiver (CDW) benefit on eligible credit cards that can help cover damage to or theft of a rental vehicle, up to the vehicle's actual cash value, subject to the card's terms and conditions.\n \nTo be eligible for coverage, the cardholder must:\nPay for the entire rental transaction using an eligible U.S. Bank credit card. \nDecline the rental company's Collision Damage Waiver (CDW), Loss Damage Waiver (LDW), or similar optional coverage. \nBe listed as the primary renter on the rental agreement.\nPlease note that coverage, exclusions, and benefit limits vary by card type. Customers should review their card's Guide to Benefits or contact the card issuer directly to confirm eligibility and coverage details before relying on this benefit. \n \n \nThis is just for everyone's awareness and it's always best to advise the customer that we are not in a position to discuss or determine eligibility for this benefit. We recommend that they contact CMS\n\n\n• https://www.usbank.com/dam/documents/pdf/credit-cards/guide-to-benefits/Business_Visa_Sig_GTB.pdf\n\n• https://www.usbankcanada.com/dam/documents/US-Bank-CLDI-Insurance-Certificate-English-Aug-2021.pdf\n\n• https://cardright.com/wp-content/uploads/2024/04/USB_Altitude_Reserve_Visa_GTB.pdf",
+      "link": "",
+      "openNewTab": false
+    },
+    {
+      "id": 1784828557149,
+      "name": "TREVEL CENTER ANGEL FILES",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/toledo_jerico_agoda_com/_layouts/15/doc2.aspx?sourcedoc=%7BF5645531-29E8-4246-AAFF-173CFEF9C3E9%7D&file=TRAVEL%20CENTER%20FILES-%20Angel.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdExp=TEAMS-TREATMENT&web=1",
+      "openNewTab": true
+    },
+    {
+      "id": 1784828663671,
+      "name": "TRAVEL CENTER KENRICK FILES \"NOBITA\"",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://agoda-my.sharepoint.com/:x:/r/personal/johnkenrick_tambis_agoda_com/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B34df7288-8430-4062-a01e-190cae9d2ebe%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=7ead7068-1c09-4203-bf73-3cb8ef91fcbf&linkOpenTime=1784828577462",
+      "openNewTab": true
+    },
+    {
+      "id": 1784828973841,
+      "name": "Priority Pass Lounges",
+      "text": "Per Quality \"QA\" we are not allowed to Transfer member directly to Priority Pass.\n• we can only provide the # 1800-352-2834 \n• or if Pax wanted to be transferred transfer Pax to CMS then ask CMS to transfer them.\n\n\nGuide **How to Access Priority Pass Lounges (U.S. Bank Altitude Connect)**\n\n•1) Register your Priority Pass account\nOpen this registration link: https://prioritypass.com/usbankaltitudeconnect\nFollow the on-screen prompts.\nEnter the required card information and personal information.\nCreate your User ID and Password.\n\nImportant: Save these details (you’ll need them to log in later).\n\n•2) Log in after registration\nAfter your account is successfully created.\nGo back and log in again using the User ID and Password you created.\n\n•3) Get your unique digital membership card\nOnce logged in, go inside your account dashboard.\nYou will see a unique digital Priority Pass card (your membership card).\nUse this digital card to access eligible lounges.\n\n•4) Using the lounge (quick steps)\n\nWhen you arrive at the lounge:\nPresent your Priority Pass digital card from your account, and\nBe ready with your boarding pass (and ID if requested).\n\nFor questions about lounge access, eligibility, or benefits, advise the cardmember to call:\n1-800-352-2834ext to change this.",
+      "link": "",
+      "openNewTab": false
+    }
+  ],
+  "editableSiteText": {
+    "siteBrand": "TRAVEL CENTER",
+    "loginTitle": "Admin Login",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "submitLoginText": "Submit",
+    "homeTitle": "HOME",
+    "homeSubtitle": "",
+    "footerText": "Simple HTML, CSS, and JavaScript website using localStorage."
+  },
+  "adminCredentials": {
+    "username": "1234567899",
+    "password": "1234567899"
+  },
+  "exportedAt": "2026-07-23T17:57:28.184Z",
+  "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
+}
