@@ -97,6 +97,13 @@
       "text": "DOB,       SRDOCSYYHK1----<US for USA>-<DDMMMYY>-<M/F>--<LN>/<FN MN>/P<PAX LINE NO.>\n\nPassport,   SRDOCS<AL>HK1-P-<COUNTRY ISSUANCE>-<PASS #.>-<NATIONALITY>-<DOB>-<M/F>-<PASS EXP DATE>-<LAST/N>-<FIRSTN>-<MIDDLEN>-H/P<PAX L #.>/S<SEG#>\n\nadd phone #:  AP8775285270-M\nadd email: Apemail-concentrix@email.com\nTSA-     SRDOCO DL HK1--K-123456789---USA/P1\nFF-       FFN DL-123456789\n\n\n",
       "link": "",
       "openNewTab": false
+    },
+    {
+      "id": 1786314764486,
+      "name": "Explain Hacker fare  to pax when they are booking on thier own",
+      "text": "----On the Customer Information page, under Price Details, if you see a message saying “Your fare is a combination of 2 or more separate one-way tickets,” it means the booking will have separate tickets for each direction.\n\nFor example:\nATL to HNL will be one ticket            \nHNL to ATL will be another ticket\n\n----Because of this, during Flight Upgrades, you need to select the preferred cabin class for each direction separately.\nUnder Flight Upgrades, you will see the city pairs listed, such as:      \"ATL - HNL |  HNL - ATL\"\nMake sure to select the cabin class for ATL - HNL first, then also select the cabin class for HNL - ATL.\n\n----If the cabin class is only selected for one direction, the other direction will remain in the lowest/basic available cabin by default.",
+      "link": "",
+      "openNewTab": false
     }
   ],
   "editableSiteText": {
@@ -113,6 +120,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-08-09T18:40:23.277Z",
+  "exportedAt": "2026-08-09T22:41:06.966Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
