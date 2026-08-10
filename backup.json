@@ -97,6 +97,13 @@
       "text": "DOB,       SRDOCSYYHK1----<US for USA>-<DDMMMYY>-<M/F>--<LN>/<FN MN>/P<PAX LINE NO.>\n\nPassport,   SRDOCS<AL>HK1-P-<COUNTRY ISSUANCE>-<PASS #.>-<NATIONALITY>-<DOB>-<M/F>-<PASS EXP DATE>-<LAST/N>-<FIRSTN>-<MIDDLEN>-H/P<PAX L #.>/S<SEG#>\n\nadd phone #:  AP8775285270-M\nadd email: Apemail-concentrix@email.com\nTSA-     SRDOCO DL HK1--K-123456789---USA/P1\nFF-       FFN DL-123456789\n\n\n",
       "link": "",
       "openNewTab": false
+    },
+    {
+      "id": 1786406155907,
+      "name": "Pay Period",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://docs.google.com/document/d/1lkgZ7zUmwzGGZCa397H8TFIeOhNjZMVKu2jhWKR8_4M/edit?usp=sharing",
+      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -113,6 +120,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-08-09T18:40:23.277Z",
+  "exportedAt": "2026-08-10T23:56:25.388Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
