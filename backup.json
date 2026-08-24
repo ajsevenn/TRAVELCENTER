@@ -111,6 +111,13 @@
       "text": "New page text. Click Edit Page Text to change this.",
       "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=VGT2dbV5_U6CMwNJtBJgfOvbm7JS62BAkdPhdhe9tLFUOVQ1RFBCS09aT1FLQ1RBUVZSQkZGQkZVQi4u&origin=lprLink&route=shorturl",
       "openNewTab": true
+    },
+    {
+      "id": 1787590350418,
+      "name": "Ghost Call Tracker",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=VGT2dbV5_U6CMwNJtBJgfKyzjPkBF0FEg3pd-7G03VFUMFZOVUFJQkw2VkMwUkQ0M05STkFWRjBSSy4u&route=shorturl",
+      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -127,6 +134,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-08-24T16:39:04.634Z",
+  "exportedAt": "2026-08-24T16:52:34.512Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
