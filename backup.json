@@ -1,17 +1,10 @@
 {
   "websitePages": [
     {
-      "id": 1784835632529,
-      "name": "AMADEUS",
+      "id": 1789411335797,
+      "name": "Airline Schedule Change",
       "text": "New page text. Click Edit Page Text to change this.",
-      "link": "https://www.sellingplatformconnect.amadeus.com/login/?e=j",
-      "openNewTab": true
-    },
-    {
-      "id": 1784835707360,
-      "name": "AA SPRK Login",
-      "text": "New page text. Click Edit Page Text to change this.",
-      "link": "https://dcwebc.farelogix.com/sprk-aa/User/Login",
+      "link": "https://ajsevenn.github.io/ASC/",
       "openNewTab": true
     },
     {
@@ -29,6 +22,34 @@
       "openNewTab": true
     },
     {
+      "id": 1784835632529,
+      "name": "AMADEUS",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://www.sellingplatformconnect.amadeus.com/login/?e=j",
+      "openNewTab": true
+    },
+    {
+      "id": 1784828191949,
+      "name": "$25 Airline Allowance",
+      "text": "Transfer this concern to a CMS \n\n\n\"I understand you're inquiring about the $25 Airline Allowance credit. Since this is a card benefit rather than a travel reservation matter, it's managed directly by Cardmember Services. They have the appropriate access to review your account, verify eligibility, and assist with any reimbursement requests related to the benefit.\"\n\n\n\"$25 Airline Allowance INFO\"\n\nYou may get up to $25 back per round-trip award ticket for airline extras, as long as you used FlexPoints to book the ticket through the Rewards Center online or by phone.\n\n\n \nTo qualify:\n- You must use at least 10,000 FlexPoints per round-trip ticket\n- The extra purchase must be made on your travel dates\n- The purchase must be charged to your eligible FlexPerks card\n- The charge must be directly with the airline\n \nExamples of covered purchases:\n- Checked bag fees\n- In-flight food or drinks\n- Airline lounge membership\n \nPlease note:\n- If you used Real-Time Rewards to pay for airfare, this benefit does not apply\n- You need to call Cardmember Service within 90 days after travel to request the credit\n- If approved, the credit will show on your account within 4 to 6 weeks\n- Your account must be open and in good standing\n\n\n\nlinks:\n  https://rewards.usbank.com/benefits/card/FlexPerksTravelBenefits/faqs\n\n  https://rewards.usbank.com/benefits/card/FlexPerksTravelBenefits/faqs#airline-allowance\n\n\n",
+      "link": "",
+      "openNewTab": false
+    },
+    {
+      "id": 1784828973841,
+      "name": "Priority Pass Lounges",
+      "text": "Per Quality \"QA\" we are not allowed to Transfer member directly to Priority Pass.\n• we can only provide the # 1800-352-2834 \n• or if Pax wanted to be transferred,  -transfer Pax to CMS then ask CMS to transfer them.\n\n\nWhat is  Priority Pass\n***Priority Pass is a membership program that lets you enter participating airport lounges while waiting for your flight. You must register first to receive your digital membership card, which you’ll present at the lounge with your boarding pass.\n\nI’m not in a position to discuss the full details of the program, so it would be best to speak directly with Priority Pass. I can provide their phone number for you.***\n\n\nGuide **How to Access Priority Pass Lounges (U.S. Bank Altitude Connect)**\n\n•1) Register your Priority Pass account\nOpen this registration link: https://prioritypass.com/usbankaltitudeconnect\nFollow the on-screen prompts.\nEnter the required card information and personal information.\nCreate your User ID and Password.\n\nImportant: Save these details (you’ll need them to log in later).\n\n•2) Log in after registration\nAfter your account is successfully created.\nGo back and log in again using the User ID and Password you created.\n\n•3) Get your unique digital membership card\nOnce logged in, go inside your account dashboard.\nYou will see a unique digital Priority Pass card (your membership card).\nUse this digital card to access eligible lounges.\n\n•4) Using the lounge (quick steps)\n\nWhen you arrive at the lounge:\nPresent your Priority Pass digital card from your account, and\nBe ready with your boarding pass (and ID if requested).\n\nFor questions about lounge access, eligibility, or benefits, advise the cardmember to call:\n1-800-352-2834ext to change this.",
+      "link": "",
+      "openNewTab": false
+    },
+    {
+      "id": 1784835707360,
+      "name": "AA SPRK Login",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://dcwebc.farelogix.com/sprk-aa/User/Login",
+      "openNewTab": true
+    },
+    {
       "id": 1784828557149,
       "name": "TREVEL CENTER ANGELS FILES",
       "text": "New page text. Click Edit Page Text to change this.",
@@ -43,23 +64,9 @@
       "openNewTab": true
     },
     {
-      "id": 1003,
-      "name": "Points Refund Checker",
-      "text": "Add your contact details here.",
-      "link": "https://metabase.agodadev.io/question/184345-booking-external-loyalty-points-info?BookingId=",
-      "openNewTab": true
-    },
-    {
       "id": 1784769647676,
       "name": "What is FTC",
       "text": "-A Future Travel Credit (FTC) is a voucher/credit for the value of your ticket.\n\n-The airline gives you this credit instead of points or cash refund when you choose to cancel a non-refundable ticket.\n\n-This credit has a validity of 1 year from the issuance date can only be used  by same Passenger and same airline\n ",
-      "link": "",
-      "openNewTab": false
-    },
-    {
-      "id": 1784828191949,
-      "name": "$25 Airline Allowance",
-      "text": "Transfer this concern to a CMS \n\n\n\"I understand you're inquiring about the $25 Airline Allowance credit. Since this is a card benefit rather than a travel reservation matter, it's managed directly by Cardmember Services. They have the appropriate access to review your account, verify eligibility, and assist with any reimbursement requests related to the benefit.\"\n\n\n\"$25 Airline Allowance INFO\"\n\nYou may get up to $25 back per round-trip award ticket for airline extras, as long as you used FlexPoints to book the ticket through the Rewards Center online or by phone.\n\n\n \nTo qualify:\n- You must use at least 10,000 FlexPoints per round-trip ticket\n- The extra purchase must be made on your travel dates\n- The purchase must be charged to your eligible FlexPerks card\n- The charge must be directly with the airline\n \nExamples of covered purchases:\n- Checked bag fees\n- In-flight food or drinks\n- Airline lounge membership\n \nPlease note:\n- If you used Real-Time Rewards to pay for airfare, this benefit does not apply\n- You need to call Cardmember Service within 90 days after travel to request the credit\n- If approved, the credit will show on your account within 4 to 6 weeks\n- Your account must be open and in good standing\n\n\n\nlinks:\n  https://rewards.usbank.com/benefits/card/FlexPerksTravelBenefits/faqs\n\n  https://rewards.usbank.com/benefits/card/FlexPerksTravelBenefits/faqs#airline-allowance\n\n\n",
       "link": "",
       "openNewTab": false
     },
@@ -71,11 +78,11 @@
       "openNewTab": false
     },
     {
-      "id": 1784828973841,
-      "name": "Priority Pass Lounges",
-      "text": "Per Quality \"QA\" we are not allowed to Transfer member directly to Priority Pass.\n• we can only provide the # 1800-352-2834 \n• or if Pax wanted to be transferred,  -transfer Pax to CMS then ask CMS to transfer them.\n\n\nWhat is  Priority Pass\n***Priority Pass is a membership program that lets you enter participating airport lounges while waiting for your flight. You must register first to receive your digital membership card, which you’ll present at the lounge with your boarding pass.\n\nI’m not in a position to discuss the full details of the program, so it would be best to speak directly with Priority Pass. I can provide their phone number for you.***\n\n\nGuide **How to Access Priority Pass Lounges (U.S. Bank Altitude Connect)**\n\n•1) Register your Priority Pass account\nOpen this registration link: https://prioritypass.com/usbankaltitudeconnect\nFollow the on-screen prompts.\nEnter the required card information and personal information.\nCreate your User ID and Password.\n\nImportant: Save these details (you’ll need them to log in later).\n\n•2) Log in after registration\nAfter your account is successfully created.\nGo back and log in again using the User ID and Password you created.\n\n•3) Get your unique digital membership card\nOnce logged in, go inside your account dashboard.\nYou will see a unique digital Priority Pass card (your membership card).\nUse this digital card to access eligible lounges.\n\n•4) Using the lounge (quick steps)\n\nWhen you arrive at the lounge:\nPresent your Priority Pass digital card from your account, and\nBe ready with your boarding pass (and ID if requested).\n\nFor questions about lounge access, eligibility, or benefits, advise the cardmember to call:\n1-800-352-2834ext to change this.",
-      "link": "",
-      "openNewTab": false
+      "id": 1003,
+      "name": "Points Refund Checker",
+      "text": "Add your contact details here.",
+      "link": "https://metabase.agodadev.io/question/184345-booking-external-loyalty-points-info?BookingId=",
+      "openNewTab": true
     },
     {
       "id": 1784835676359,
@@ -118,13 +125,6 @@
       "text": "New page text. Click Edit Page Text to change this.",
       "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=VGT2dbV5_U6CMwNJtBJgfKyzjPkBF0FEg3pd-7G03VFUMFZOVUFJQkw2VkMwUkQ0M05STkFWRjBSSy4u&route=shorturl",
       "openNewTab": true
-    },
-    {
-      "id": 1789411335797,
-      "name": "Airline Schedule Change",
-      "text": "New page text. Click Edit Page Text to change this.",
-      "link": "https://ajsevenn.github.io/ASC/",
-      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -141,6 +141,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-09-14T18:42:17.885Z",
+  "exportedAt": "2026-09-14T18:54:01.334Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
