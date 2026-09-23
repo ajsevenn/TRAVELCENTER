@@ -118,6 +118,13 @@
       "text": "New page text. Click Edit Page Text to change this.",
       "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=VGT2dbV5_U6CMwNJtBJgfKyzjPkBF0FEg3pd-7G03VFUMFZOVUFJQkw2VkMwUkQ0M05STkFWRjBSSy4u&route=shorturl",
       "openNewTab": true
+    },
+    {
+      "id": 1790191193590,
+      "name": "Even Manual Exchange \"SABRE\"",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://docs.google.com/document/d/1EC3iwB8NNtUCwWMSr1CQAjPiWfVsrdvZFGzmGcKsqOQ/edit?tab=t.0",
+      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -134,6 +141,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-09-16T21:52:56.026Z",
+  "exportedAt": "2026-09-23T19:20:05.302Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
