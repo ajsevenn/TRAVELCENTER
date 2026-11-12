@@ -94,7 +94,7 @@
     {
       "id": 1786130768664,
       "name": "Amadeus Basic Comands",
-      "text": "DOB,       SRDOCSYYHK1----<US for USA>-<DDMMMYY>-<M/F>--<LN>/<FN MN>/P<PAX LINE NO.>\n\nPassport,   SRDOCS<AL>HK1-P-<COUNTRY ISSUANCE>-<PASS #.>-<NATIONALITY>-<DOB>-<M/F>-<PASS EXP DATE>-<LAST/N>-<FIRSTN>-<MIDDLEN>-H/P<PAX L #.>/S<SEG#>\n\nadd phone #:           AP8775285270-M\nadd email:               Apemail-concentrix@email.com\nTSA-                      SRDOCO DL HK1--K-123456789---USA/P1\nFF-                        FFN DL-123456789\n\nAdd Waiver Code:    OS<AL><freetext>/P<pax#>\nADD OSI:                OS<AL><free text>/P<pax#>\nAdd TOURCODE:     FT*TOURCODE\nPayment:          FPO/CASH+/CASH\nEndorsement        FE PAX <free text><copy old endorsement/P<pax no./S<itin segments> //to add endorsement box\n",
+      "text": "DOB,       SRDOCSYYHK1----<US for USA>-<DDMMMYY>-<M/F>--<LN>/<FN MN>/P<PAX LINE NO.>\n\nPassport,   SRDOCS<AL>HK1-P-<COUNTRY ISSUANCE>-<PASS #.>-<NATIONALITY>-<DOB>-<M/F>-<PASS EXP DATE>-<LAST/N>-<FIRSTN>-<MIDDLEN>-H/P<PAX L #.>/S<SEG#>\n\nadd phone #:           AP8775285270-M\nadd email:               Apemail-concentrix@email.com\nTSA-                      SRDOCO DL HK1--K-123456789---USA/P1\nFF-                        FFN DL-123456789\n\nAdd Waiver Code:    OS<AL><freetext>/P<pax#>\nADD OSI:                OS<AL><free text>/P<pax#>\nAdd TOURCODE:     FT*TOURCODE\nPayment:          FPO/CASH+/CASH\nEndorsement        FE PAX <free text><copy old endorsement/P<pax no./S<itin segments> //to add endorsement box\n\nSPECIAL REQUEST\nHE MEAL                   to See all meal codes\nSRCHML/P1/S2-3       to add meal\nSRWCHR/P1/S2-3     wheelchair\n\n\n\n",
       "link": "",
       "openNewTab": false
     },
@@ -141,6 +141,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-09-23T19:20:05.302Z",
+  "exportedAt": "2026-11-12T20:20:55.625Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
