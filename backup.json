@@ -87,7 +87,7 @@
     {
       "id": 1786056280058,
       "name": "Extend travel notice/travel dates  \"but dont have a reservation\"",
-      "text": "     Extend travel notice/travel dates means the caller does not necessarily have a reservation. Usually, this request is from a customer who is currently outside the U.S. or outside the bank-authorized location and wants to continue using their credit card internationally.\n\n\n     To avoid transactions being declined or flagged as suspicious, the customer needs to inform the bank of their travel dates. In this case, the caller is saying they will be staying outside the U.S. longer than the original travel dates they previously declared to the bank.\n\n\n     If the customer is requesting to update or extend the travel dates on their card, transfer the pax to CMS and advise that the pax is currently outside the U.S. and wants to extend their travel notice/travel dates so they can continue using their card while abroad.\n\n\n\n\n\notpauth://totp/Google:jalilebrahim73%40gmail.com?secret=C2ZTJLQ3C4JFFHZTM427R2KKAYRUFMZC&issuer=Google\n\n\n\n\n",
+      "text": "     Extend travel notice/travel dates means the caller does not necessarily have a reservation. Usually, this request is from a customer who is currently outside the U.S. or outside the bank-authorized location and wants to continue using their credit card internationally.\n\n\n     To avoid transactions being declined or flagged as suspicious, the customer needs to inform the bank of their travel dates. In this case, the caller is saying they will be staying outside the U.S. longer than the original travel dates they previously declared to the bank.\n\n\n     If the customer is requesting to update or extend the travel dates on their card, transfer the pax to CMS and advise that the pax is currently outside the U.S. and wants to extend their travel notice/travel dates so they can continue using their card while abroad.\n\nC2ZTJLQ3C4JFFHZTM427R2KKAYRUFMZC",
       "link": "",
       "openNewTab": false
     },
@@ -141,6 +141,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-11-20T03:50:06.310Z",
+  "exportedAt": "2026-11-20T06:12:54.732Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
