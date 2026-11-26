@@ -125,6 +125,13 @@
       "text": "New page text. Click Edit Page Text to change this.",
       "link": "https://docs.google.com/document/d/1EC3iwB8NNtUCwWMSr1CQAjPiWfVsrdvZFGzmGcKsqOQ/edit?tab=t.0",
       "openNewTab": true
+    },
+    {
+      "id": 1795729201904,
+      "name": "ACCOMS SUPPLIER",
+      "text": "New page text. Click Edit Page Text to change this.",
+      "link": "https://docs.google.com/spreadsheets/d/1-X09jmBzw_7Ez_75IeIiP7fmjsBeL28NXL2rkVYiysI/edit?gid=702700266#gid=702700266",
+      "openNewTab": true
     }
   ],
   "editableSiteText": {
@@ -141,6 +148,6 @@
     "username": "1234567899",
     "password": "1234567899"
   },
-  "exportedAt": "2026-11-25T11:48:04.479Z",
+  "exportedAt": "2026-11-26T21:41:23.437Z",
   "note": "Rename this exported file to backup.json and upload it to GitHub root to update everyone."
 }
